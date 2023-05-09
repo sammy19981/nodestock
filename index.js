@@ -1,3 +1,5 @@
+//Stock Market Portfolio App by Sameer Saxena
+
 const express = require('express');
 const app = express();
 const exphbs = require('express-handlebars');
